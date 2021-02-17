@@ -1,0 +1,71 @@
+{
+    "basic_info": {
+        "name": "Quadri Omofolarin Akande",
+        "titles": [
+            "Full Stack Developer",
+            "Front-end Developer",
+            "Back-end Developer"
+        ],
+        "social": [{
+                "name": "github",
+                "url": "https://github.com/QAKANDE",
+                "class": "fab fa-github"
+            },
+            {
+                "name": "LinkdIn",
+                "url": "https://www.linkedin.com/in/quadri-akande-991b6a197/",
+                "class": "fab fa-linkedin-in"
+                
+            }
+        ],
+        "image": "myProfile.jpg"
+    },
+    "skills": {
+        "icons": [{
+                "name": "HTML 5",
+                "class": "devicon-html5-plain",
+                "level": "80"
+            },
+            {
+                "name": "CSS3",
+                "class": "devicon-css3-plain",
+                "level": "80"
+            },
+            {
+                "name": "React",
+                "class": "devicon-react-original",
+                "level": "80"
+            },
+            {
+                "name": "TypeScript",
+                "class": "devicon-typescript-plain",
+                "level": "80"
+            },
+            {
+                "name": "JavaScript",
+                "class": "devicon-javascript-plain",
+                "level": "80"
+            },
+            {
+                "name": "Express",
+                "class": "devicon-express-original",
+                "level": "80"
+            },
+            {
+                "name": "Bootstrap",
+                "class": "devicon-bootstrap-plain",
+                "level": "80"
+            },
+            {
+                "name": "MongoDB",
+                "class": "devicon-mongodb-plain",
+                "level": "80"
+            },
+            {
+                "name": "Node",
+                "class": "devicon-nodejs-plain",
+                "level": "80"
+            }
+        ]
+    }
+}
