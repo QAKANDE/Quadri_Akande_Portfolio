@@ -40,7 +40,7 @@ class About extends Component {
             } >
             <
             img height = "250px"
-            src = { url }
+            src = { profilepic }
             alt = "Avatar placeholder" /
             >
             <
