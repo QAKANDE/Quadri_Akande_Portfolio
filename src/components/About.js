@@ -5,6 +5,8 @@ import reactIcon from "@iconify/icons-logos/react";
 import express from "@iconify/icons-logos/express";
 import node from "@iconify/icons-logos/nodejs";
 
+const url = "https://res.cloudinary.com/quadri/image/upload/v1613584199/myProfile_sadp4q.jpg"
+
 class About extends Component {
     render() {
         if (this.props.sharedBasicInfo) {
@@ -38,7 +40,7 @@ class About extends Component {
             } >
             <
             img height = "250px"
-            src = { profilepic }
+            src = { url }
             alt = "Avatar placeholder" /
             >
             <
