@@ -81,14 +81,12 @@ class About extends Component {
             dataicon = "emojione:red-circle"
             datainline = "false" >
             <
-            /span>{" "} &
-            nbsp; { " " } <
+            /span>{" "} { " " } <
             span className = "iconify"
             dataicon = "twemoji:yellow-circle"
             datainline = "false" >
             <
-            /span>{" "} &
-            nbsp; { " " } <
+            /span>{" "} { " " } <
             span className = "iconify"
             dataicon = "twemoji:green-circle"
             datainline = "false" >
