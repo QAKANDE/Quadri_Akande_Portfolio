@@ -1,7 +1,7 @@
 {
     "basic_info": {
         "description_header": "Hello ,hola ,Bonjour ,Ciao ,नमस्ते !",
-        "description": "👋 I'm Quadri Akande. I use MongoDb, Express, React, Node to create beautiful and efficient web applications.My layouts work on any device, whether big or small.Furthermore, I have a strong preference for easy to use, intuitive UI/UX and fast load times and lag free interaction are my highest priorities.I believe websites do not have to be static, therefore i love making pages come to life.",
+        "description": "👋 I'm Quadri Akande. I use MongoDb, Express, React, Node to create beautiful and efficient web applications.My layouts work on any device, whether big or small.Furthermore, I have a strong preference for easy to use, intuitive UI/UX and fast load times and lag free interaction are my highest priorities.I believe websites do not have to be static, therefore I love making pages come to life.",
         "section_name": {
             "about": "About me",
             "projects": "Projects",
