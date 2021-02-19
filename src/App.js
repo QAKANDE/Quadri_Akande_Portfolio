@@ -142,7 +142,9 @@ class App extends Component {
             /> <
             Education resumeExperience = { this.state.resumeData.education }
             resumeBasicInfo = { this.state.resumeData.basic_info }
-            /><
+            /> <
+            ContactForm /
+            > <
             Footer sharedBasicInfo = { this.state.sharedData.basic_info }
             />{" "} < /
             div >
