@@ -37,7 +37,7 @@ class ContactForm extends Component {
                 alert("Message Sent")
 
             }, function(error) {
-                console.log('FAILED...', error);
+                console.log('FAILED.', error);
 
             });
         this.setState({
