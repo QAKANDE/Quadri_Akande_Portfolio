@@ -15,7 +15,7 @@
             "startDate": "2020",
             "description": "This platform is a crowdfunding platform that seeks to solve the problem of location constraint on real estate investment. It brings investors together and enables them to come together to collaborate in order to invest. Furthermore to calculate Return On Investment (ROI) on properties regardless of the property location and the investor's location.",
             "images": [
-                "images/portfolio/adventure/real_estate_pic.jpg",
+                "images/portfolio/adventure/p1.jpg",
                 "images/portfolio/adventure/real_estate_pic2.jpg"
             ],
             "url": "https://q-investment-home-front-end.herokuapp.com/",
@@ -43,7 +43,7 @@
             "startDate": "2020",
             "description": "Fraud has been a major problem in every financial institution. Fraudsters always look for new ways to commit fraud which is why it is very imperative for financial institution to always remain one step ahead of fraudsters. However, fraud detection is not a straight forward task because most fraud detection datasets are highly imbalanced in nature. The highly imbalanced nature of the dataset makes the model biased towards the majority samples. Data-level approach where resampling methods were used to tackle the problem of imbalanced data. Classifiers such as Decision trees, Random Forest, Artificial Neural Network and Extreme Gradient Boosting (XGBoost) were used for prediction. Various evaluation metrics such as Precision, Recall, f1 score and Area Under the Precision Curve (AUPRC) were used to evaluate model performance.",
             "images": [
-                "images/portfolio/adventure/ML_Logo.jpg",
+                "images/portfolio/adventure/Ann_Logo.png",
                 "images/portfolio/adventure/ML_Logo2.png"
             ],
             "url": "https://drive.google.com/file/d/1F747vDu2JdVdOGtqaK3mD8CvgUOVIlUI/view",
