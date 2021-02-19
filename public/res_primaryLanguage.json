@@ -39,7 +39,7 @@
             ]
         },
         {
-            "title": "Detecting fraud in financial payment services using machine learning.",
+            "title": "Detecting fraud using machine learning.",
             "startDate": "2020",
             "description": "Fraud has been a major problem in every financial institution. Fraudsters always look for new ways to commit fraud which is why it is very imperative for financial institution to always remain one step ahead of fraudsters. However, fraud detection is not a straight forward task because most fraud detection datasets are highly imbalanced in nature. The highly imbalanced nature of the dataset makes the model biased towards the majority samples. Data-level approach where resampling methods were used to tackle the problem of imbalanced data. Classifiers such as Decision trees, Random Forest, Artificial Neural Network and Extreme Gradient Boosting (XGBoost) were used for prediction. Various evaluation metrics such as Precision, Recall, f1 score and Area Under the Precision Curve (AUPRC) were used to evaluate model performance.",
             "images": [
@@ -58,7 +58,7 @@
             ]
         },
         {
-            "title": "Classification of CIFAR-10 Dataset using Keras and Tensorflow",
+            "title": "Classification of CIFAR-10 Dataset",
             "startDate": "2020",
             "description": "This paper provides an insight into the approaches taken in the classification of the CIFAR-10 dataset and the various Deep Learning techniques applied, including the architecture (Convolutional Neural Networks) implemented. We used TensorFlow machine learning framework with Keras library in python to build, train and test our model with visualizations to monitor model performance. The CIFAR-10 dataset consists of 60,000 images of 10 classes but to further enforce our understanding of the dataset, we successfully extracted 5 classes from it, each with the corresponding training and test data. A CNN architecture was adopted and hyperparameter tuning was achieved by tasking each member to apply different ranges of selected framework parameters during training.",
             "images": [
