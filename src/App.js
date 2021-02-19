@@ -8,6 +8,7 @@ import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 import Education from "./components/Education"
+import ContactForm from "./components/ContactForm"
 
 class App extends Component {
     constructor(props) {
@@ -138,12 +139,10 @@ class App extends Component {
             />{" "} <
             Experience resumeExperience = { this.state.resumeData.experience }
             resumeBasicInfo = { this.state.resumeData.basic_info }
-            />
-            <
+            /> <
             Education resumeExperience = { this.state.resumeData.education }
             resumeBasicInfo = { this.state.resumeData.basic_info }
-            />
-             <
+            /><
             Footer sharedBasicInfo = { this.state.sharedData.basic_info }
             />{" "} < /
             div >
